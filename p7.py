@@ -1,3 +1,4 @@
+# create set and print it , and perform add, remove operstion
 s1={10,20,30,40,50}
 print(s1)
 s1.add(60)

@@ -1,3 +1,4 @@
+# create and print list and also change list elements 
 l1=[1,"jeet","junagadh",99.99]
 l1[2]="keshod"
 print(l1)

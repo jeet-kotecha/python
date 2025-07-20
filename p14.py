@@ -1,3 +1,4 @@
+# use if else statment for check that user entered correct username and password 
 un="bca"
 pw="sem-5"
 

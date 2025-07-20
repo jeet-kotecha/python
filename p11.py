@@ -1,3 +1,4 @@
+# use membership operator with if else statment
 s1={"one","two","three","four"}
 
 m=input("Enter element to check:")

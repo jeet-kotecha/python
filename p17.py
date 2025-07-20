@@ -1,3 +1,4 @@
+# check student's class according to their percentage
 per=float(input("Enter your percentage:"))
 
 if per>=70 and per<=100:

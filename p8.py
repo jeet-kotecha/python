@@ -1,3 +1,4 @@
+#create dictionary and print value of it and also print any key of it 
 d1={"rno":"25","name":"jeet","std":"12th"}
 
 print(d1)

@@ -1,3 +1,4 @@
+# use comparison operator within if else statment 
 num=int(input("Enter number:"))
 
 if 5<num<20:

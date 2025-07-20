@@ -1,3 +1,4 @@
+# check number is even or odd using if else statment
 num=int(input("Enter your number:"))
 
 if num%2==0:

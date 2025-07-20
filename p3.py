@@ -1,3 +1,4 @@
+# print value using global variable 
 a=1
 def increment():
     global a
