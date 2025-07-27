@@ -1,0 +1,6 @@
+# open details.txt file and check and set file pointer using seek() and tell() also read character using read()
+f1=open("unit 2/details.txt",'r')
+f1.seek(0)
+print(f1.tell())
+print(f1.read(15))
+f1.close()
